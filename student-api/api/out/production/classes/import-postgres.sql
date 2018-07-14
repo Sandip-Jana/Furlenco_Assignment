@@ -1,0 +1,10 @@
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test1', 10, true, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test22', 10, false, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test3', 10, true, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test4', 10, false, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test5', 10, true, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test6', 10, false, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test7', 10, true, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test8', 10, false, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test9', 10, true, '2007-12-13');
+INSERT INTO student(name, grade, active, admissionYear) VALUES('Test10', 10, false, '2007-12-13');
